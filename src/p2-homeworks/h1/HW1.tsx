@@ -1,9 +1,10 @@
 import React from 'react'
+import Message from "./Message";
 
 const messageData = {
     avatar: 'https://sun9-74.userapi.com/Ph-WiuOtF985il9AvN9JqiCWedmHtSGSSTXrSA/ltEB2Z2-YO4.jpg',
-    name: 'Some Name',
-    message: 'some text',
+    name: 'Nicholas',
+    message: 'Hello! I am a new frontend developer',
     time: '22:00',
 }
 
